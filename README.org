@@ -1,0 +1,50 @@
+* Justification For Existence Of This Project
+
+Share links to Emacs initialization files with minimal effort!
+
+I love reading all kinds of Emacs configuration files ranging for super
+refined to just starting out. For example [[https://github.com/caisah/emacs.dz][caisah]] has a list of loads of
+stellar examples. However the only way to get added to that list is for your
+configuration to be notable. That is a pretty high bar for people just
+starting out. New people also usually have the freshest ideas though and they
+challenge the status quo of what we currently consider "the best". All of
+those perspectives are valuable so I wanted to create a simple list that can
+include all of them.
+
+The only requirement for adding a link here is that you or someone else values
+it. A lot or a little no matter how much—someone just needs to have found it
+valuable. Emacs is about sharing and learning and that includes the entire
+spectrum of code out there. Happy Hacking!
+
+* How To Contribute
+
+- Steps
+  - Identify Emacs initialization files that either you or someone else found
+    valuable in some way no matter how large or small.
+  - Find a link where to get the configuration. That would be a link to the
+    Git project containing it, the file itself, or a blog post. It is at your
+    discretion.
+  - Add that link here.
+
+* Keep It Simple
+
+The links are stored in a single column Org-Mode table sorted by description.
+Put notes, comments, attribution, and any other classifications of anything
+and everything in the link itself—or nothing but the link itself: this is
+really simple. If the reader wonders if it is useful? They know that it is
+because somebody added it here. If the reader wonders what style it is written
+in? Put it in the link. Rely on the link destination to share ratings and
+details that explain everything that doesn't fit here. This is easier than you
+think it is. It is so easy that when you think to bookmark a link instead add
+it to this list—just edit the page directly and create a pull request.
+
+* Links
+
+| Initialization Files |
+|----------------------|
+| [[http://aaronbedra.com/emacs.d/][Aaron Bedra]]          |
+| [[https://github.com/milkypostman/dotemacs][Donald Curtis]]        |
+| [[https://github.com/magnars/.emacs.d][Magnar Sveen]]         |
+| [[https://gitgud.io/neptune_speed/init_el/tree/master][neptune_speed]]        |
+| [[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha Chua]]           |
+| [[https://github.com/purcell/emacs.d][Steve Purcell]]        |
