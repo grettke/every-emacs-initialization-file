@@ -35,3 +35,29 @@ tags, properties, etc. here. Utilize everything that Org has to offer. Think
 of their headline as the most important note to leave for the future reader,
 and that includes unforeseen ways that they might want to /use/ the metadata
 too!
+
+* Initialization Files
+
+** Aaron Bedra
+
+[[http://aaronbedra.com/emacs.d/][Aaron Bedra's Emacs 26 Configuration]]
+
+** Donald Curtis
+
+[[https://github.com/milkypostman/dotemacs][Personal .emacs.d directory]]
+
+** Magnar Sveen
+
+[[https://github.com/magnars/.emacs.d][My emacs settings]]
+
+** neptune_speed
+
+[[https://gitgud.io/neptune_speed/init_el/tree/master][Init_El]]
+
+** Sacha Chua
+
+[[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha Chua's Emacs configuration]]
+
+** Steve Purcell
+
+[[https://github.com/purcell/emacs.d][A reasonable Emacs config]]
