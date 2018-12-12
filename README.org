@@ -13,8 +13,10 @@ include all of them.
 
 The only requirement for adding a link here is that you or someone else values
 it. A lot or a little no matter how much—someone just needs to have found it
-valuable. Emacs is about sharing and learning and that includes the entire
-spectrum of code out there. Happy Hacking!
+valuable. No shyness or self-consciousness allowed: absolutely add your own! 😄
+
+Emacs is about sharing and learning and that includes the entire spectrum of
+code out there. Happy Hacking!
 
 * How To Contribute
 
