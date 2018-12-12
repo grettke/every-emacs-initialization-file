@@ -116,3 +116,8 @@ reusable "out of box" parts of HELP:
 ** Steve Purcell
 
 [[https://github.com/purcell/emacs.d][A reasonable Emacs config]]
+
+** Elsa Gonsiorowski
+
+[[https://github.com/gonsie/dotfiles/tree/master/emacs][My emacs settings]]
+This setup includes multiple files from the .emacs and is designed to just work for many versions of Emacs (v23 to current). 
