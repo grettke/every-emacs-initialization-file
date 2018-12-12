@@ -48,6 +48,59 @@ too!
 
 [[https://github.com/milkypostman/dotemacs][Personal .emacs.d directory]]
 
+** Grant Rettke
+
+[[https://github.com/grettke/help][HELP Enables Literate Programming]]
+
+HELP is the culmination of everything that I've learned about literate
+programming (LP) in Org-Mode—written with the intent to share it with others
+in total and complete respect and consideration of you and the value of your
+time. No platitude here: time /is/ precious.
+
+With that in mind here is a breakdown of the sections you might be interested
+in (and should ignore):
+
+Here are the files that compose HELP in order of load dependency, the next one
+always load the previous one. The first two configuration files are the most
+reusable "out of box" parts of HELP:
+
+- [[https://github.com/grettke/help/blob/master/Org-Mode_Exemple_Complet_Minimal.org][Org-Mode Exemple Complet Minimal]] \rarr [[https://raw.githubusercontent.com/grettke/help/master/.org-mode-ecm.emacs.el][.org-mode-ecm.emacs.el]]
+  - Proper etiquette before posting questions to the mailing list is to start
+    Org with nothing else loaded to debug your issue—this is that
+    configuration. It helps you create the [[https://orgmode.org/worg/org-faq.html#ecm][Org ECM: Exemple Complet Minimal]]
+  - Helper function to dump all of the information you need to include in the ECM
+  - By necessity all of the *essential* Emacs configuration, though not much, is
+    in there too and definitely worth taking a look at
+- [[https://github.com/grettke/help/blob/master/Org-Mode_Fundamentals.org][Org-Mode Fundamentals]] \rarr [[https://github.com/grettke/help/blob/master/.org-mode-fundamentals.emacs.el][.org-mode-fundamentals.emacs.el]]
+  - Org-Mode configuration great for the style of LP described by the table [[https://github.com/grettke/help/blob/master/Org-Mode_Fundamentals.org#literate-programming][here]]
+  - Individual headlines are good for reference and copy and paste too
+- [[https://github.com/grettke/help/blob/master/Package-Management.org][Package-Management.org]] \rarr [[https://github.com/grettke/help/blob/master/.org-mode-package-management.emacs.el][.org-mode-package-management.emacs.el]]
+  - Package management configuration stuff
+  - Safe to ignore
+- [[https://github.com/grettke/help/blob/master/Contribute.org][Contribute.org]] \rarr [[https://github.com/grettke/help/blob/master/.org-mode-contribute.emacs.el][.org-mode-contribute.emacs.el]]
+  - Loads packages that for some reason I make changes
+  - Safe to ignore
+- [[https://github.com/grettke/help/blob/master/help.org][help.org]] \rarr [[https://raw.githubusercontent.com/grettke/help/master/.emacs.el][.emacs.el]]
+  - /The/ section to skim and find parts to copy and paste
+    - All of my very personal preferences.
+  - Intent driven headlines that are personal favorites and maybe useful to you
+    - [[https://github.com/grettke/help/blob/master/help.org#style-guide][LP Style Guide]]
+      - Writing style guard-rails
+    - [[https://github.com/grettke/help/blob/master/help.org#history][History]]
+      - Most of the time you see initialization files that are the result of
+        years of continuous refinement and improvement—you never see the
+        complete messes! The fun story about my config include the mistakes,
+        confusion, and completely dropping Emacs! It is really fond memories
+        for me, too.
+    - [[https://github.com/grettke/help/blob/master/help.org#typography][Typography]]
+      - How to really configure ~fill-column~ (for those who cannot remember)
+    - [[https://github.com/grettke/help/blob/master/help.org#refile][Refiling]]
+      - Strategy for moving headlines between files
+    - [[https://github.com/grettke/help/blob/master/help.org#common-configurations][Common Configurations]]
+      - Use mode inheritance to simplify configuration
+    - [[https://github.com/grettke/help/blob/master/help.org#literate-programming][Literate Programming]]
+      - Every custom configuration of every mode
+
 ** Magnar Sveen
 
 [[https://github.com/magnars/.emacs.d][My emacs settings]]
