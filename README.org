@@ -28,23 +28,10 @@ spectrum of code out there. Happy Hacking!
 
 * Keep It Simple
 
-The links are stored in a single column Org-Mode table sorted by description.
-Put notes, comments, attribution, and any other classifications of anything
-and everything in the link itself—or nothing but the link itself: this is
-really simple. If the reader wonders if it is useful? They know that it is
-because somebody added it here. If the reader wonders what style it is written
-in? Put it in the link. Rely on the link destination to share ratings and
-details that explain everything that doesn't fit here. This is easier than you
-think it is. It is so easy that when you think to bookmark a link instead add
-it to this list—just edit the page directly and create a pull request.
-
-* Links
-
-| Initialization Files |
-|----------------------|
-| [[http://aaronbedra.com/emacs.d/][Aaron Bedra]]          |
-| [[https://github.com/milkypostman/dotemacs][Donald Curtis]]        |
-| [[https://github.com/magnars/.emacs.d][Magnar Sveen]]         |
-| [[https://gitgud.io/neptune_speed/init_el/tree/master][neptune_speed]]        |
-| [[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha Chua]]           |
-| [[https://github.com/purcell/emacs.d][Steve Purcell]]        |
+The links are stored as headlines—that way you can store as little or as much
+information as you like in whatever way that you want. Add notes, comments,
+attribution, and any other classifications of anything. You can apply Org
+tags, properties, etc. here. Utilize everything that Org has to offer. Think
+of their headline as the most important note to leave for the future reader,
+and that includes unforeseen ways that they might want to /use/ the metadata
+too!
