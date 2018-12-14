@@ -120,4 +120,7 @@ reusable "out of box" parts of HELP:
 ** Elsa Gonsiorowski
 
 [[https://github.com/gonsie/dotfiles/tree/master/emacs][My emacs settings]]
-This setup includes multiple files from the .emacs and is designed to just work for many versions of Emacs (v23 to current). 
+This setup includes multiple files from the .emacs and is designed to just work for many versions of Emacs (v23 to current).
+
+** Uncle Dave's 
+[[https://github.com/daedreth/UncleDavesEmacs][UncleDavesEmacs]] Exwm and other good stuff
