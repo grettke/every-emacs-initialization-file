@@ -124,3 +124,7 @@ This setup includes multiple files from the .emacs and is designed to just work 
 
 ** Uncle Dave's 
 [[https://github.com/daedreth/UncleDavesEmacs][UncleDavesEmacs]] Exwm and other good stuff
+
+** Yisrael Dov Lebow
+
+[[https://gitlab.com/yisraeldov/emacs-d]][My working .emacs.d]] Using emacs as a desktop environment and PHP ide. I am in the process of redoing the ~init.el~ to be done in orgmode and be cleaner, on branch [[https://gitlab.com/yisraeldov/emacs-d/tree/init-cleanup][init-cleanup]] and documenting the process on [[https://www.youtube.com/playlist?list=PLrFss89N5XNw8rTgI2fVhSj9Y62TpphFI][YouTube]].
